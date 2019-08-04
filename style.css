@@ -10,10 +10,9 @@
 }
 
 nav{
-    /* position: sticky;
+     position: sticky;
     top: 0;
-     */
-}
+    }
 
 nav ul{
     display: flex;
